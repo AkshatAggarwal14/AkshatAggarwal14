@@ -9,8 +9,10 @@
 
 ### 🛠 Skills
 ![C/C++](https://img.shields.io/badge/C/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/go-%23323330.svg?style=for-the-badge&logo=go&logoColor=%29beb0)&nbsp;
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![FastAPI](https://img.shields.io/badge/fastapi-heh?&style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Node.JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-red?&style=for-the-badge&logo=MongoDB&logoColor=green)&nbsp;
