@@ -1,13 +1,15 @@
 # This is Akshat Aggarwal
 
 ### About Me
-- 🎓 I am currently pursuing Bachelors of Technology in CSE at National Insititute of Technology, Hamirpur.
-- 💼 I am a Coordinator at [CSEC, NITH](https://github.com/csec-nith).
+
+- 💻 I am working as a full-stack software developer at [Intuit](https://github.com/intuit).
+- 🎓 I completed my Bachelors of Technology in CSE from National Insititute of Technology, Hamirpur.
+- 💼 I was a Coordinator at [CSEC, NITH](https://github.com/csec-nith).
 - 👨🏻‍💻 I have a passion for problem solving and [competitive programming](https://clist.by/coder/master._.mind/).
-- 👨🏻 I am also interested in Backend Development.
 - 🌱 I’m currently learning Golang.
 
 ### 🛠 Skills
+
 ![C/C++](https://img.shields.io/badge/C/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/go-%23323330.svg?style=for-the-badge&logo=go&logoColor=%29beb0)&nbsp;
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -27,10 +29,14 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:akshataggarwal1411@gmail.com)
 
 ### ⚙️ GitHub Analytics
+
 <a href="https://github.com/AkshatAggarwal14">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshatAggarwal14&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatAggarwal14&theme=dracula&layout=compact&count_private=false" />
 </a><br>
 <a href="https://profile-summary-for-github.com/user/AkshatAggarwal14" style="color: coral;text-decoration: none;">View Detailed Analysis</a>
 <br>
-<hr> 
+<hr>
+
+<p ><a href="https://akshataggarwal14.github.io/resume"> <img src="https://github-profile-trophy.vercel.app/?username=AkshatAggarwal14&theme=monokai" alt="akshataggarwal14" /></a></p>  
+<hr>
