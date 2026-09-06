@@ -32,5 +32,3 @@
 <br>
 <a href="https://profile-summary-for-github.com/user/AkshatAggarwal14" style="color: coral;text-decoration: none;">View Detailed Analysis</a>
 <br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-stack+Developer+%40+Intuit;Competitive+Programmer;Always+learning+something+new)](https://git.io/typing-svg)
