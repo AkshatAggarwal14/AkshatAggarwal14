@@ -1,5 +1,7 @@
 # Hi, I'm Akshat Aggarwal
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-stack+Developer+%40+Intuit;Competitive+Programmer;Always+learning+something+new)](https://git.io/typing-svg)
+
 ![Profile views](https://komarev.com/ghpvc/?username=AkshatAggarwal14)
 
 ### About Me
@@ -11,6 +13,8 @@
 - 🌱 I’m currently learning Golang.
 
 ### 🛠 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,py,js,java,kotlin,ts,react,nodejs,express,mongodb,mysql,git)](https://skillicons.dev)
 
 #### Programming languages
 
