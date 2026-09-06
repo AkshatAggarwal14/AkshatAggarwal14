@@ -53,7 +53,3 @@
 <br>
 <a href="https://profile-summary-for-github.com/user/AkshatAggarwal14" style="color: coral;text-decoration: none;">View Detailed Analysis</a>
 <br>
-<hr>
-
-<p><a href="https://akshataggarwal14.github.io/resume">My Resume</a></p>
-<hr>
